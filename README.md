@@ -1,4 +1,4 @@
-# STM32
+# STM32 Bare-Metal UART3 Driver
 STM32 Bare-Metal UART3 Driver (Polling)
 This project demonstrates how to implement a bare-metal UART driver for USART3 using STM32 microcontrollers. The example configures UART3 in polling mode for basic serial communication — sending and receiving data over PD8 (TX) and PD9 (RX) without any dependency on STM32Cube HAL or LL drivers.
 
